@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: mikrotik-config
+  annotations:
+    github.com/project-slug: gjestela/mikrotik-config
+spec:
+  type: other
+  lifecycle: unknown
+  owner: gjestela
