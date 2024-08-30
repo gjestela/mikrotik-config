@@ -10,4 +10,4 @@ spec:
   owner: gjestela
   system: home-network
   dependencyOf:
-    - resource: MainRouter
+    - resource:MainRouter
