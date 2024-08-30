@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Resource
+metadata:
+  name: Main router
+  description: Router between WAN and LAN
+spec:
+  type: router
+  owner: gjestela
+  system: mikrotik-config
