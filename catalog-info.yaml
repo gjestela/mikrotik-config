@@ -9,3 +9,5 @@ spec:
   lifecycle: testing
   owner: gjestela
   system: home-network
+  dependencyOf:
+    - resource: rs4011
