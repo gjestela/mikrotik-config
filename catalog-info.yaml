@@ -8,3 +8,4 @@ spec:
   type: other
   lifecycle: testing
   owner: gjestela
+  system: home-network
