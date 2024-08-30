@@ -7,4 +7,5 @@ spec:
   type: router
   owner: gjestela
   system: home-network
-  dependsOn: mikrotik-config
+  dependsOn: 
+    - component: mikrotik-config
