@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Resource
 metadata:
-  name: Main router
+  name: MainRouter
   description: Router between WAN and LAN
 spec:
   type: router
