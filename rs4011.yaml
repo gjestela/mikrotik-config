@@ -6,4 +6,4 @@ metadata:
 spec:
   type: router
   owner: gjestela
-  system: mikrotik-config
+  system: home-network
