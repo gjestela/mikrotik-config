@@ -6,5 +6,5 @@ metadata:
     github.com/project-slug: gjestela/mikrotik-config
 spec:
   type: other
-  lifecycle: live
+  lifecycle: testing
   owner: gjestela
