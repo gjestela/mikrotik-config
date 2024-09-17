@@ -3,6 +3,8 @@ kind: System
 metadata:
   name: home-network
   description: Hardware and software to keep us up and happy
+  annotations:
+    github.com/project-slug: gjestela/mikrotik-config
 spec:
   owner: gjestela
   domain: infrastructure
