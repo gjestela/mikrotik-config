@@ -1,11 +1,6 @@
 using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
-using Altinn.Studio.Designer.Configuration;
-using Altinn.Studio.Designer.Helpers;
-using Altinn.Studio.Designer.Repository.Models;
-using Altinn.Studio.Designer.Services.Interfaces;
-using Altinn.Studio.Designer.TypedHttpClients.AzureDevOps.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.Logging;
 using Newtonsoft.Json;
